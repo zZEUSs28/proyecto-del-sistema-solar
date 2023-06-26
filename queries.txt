@@ -1,0 +1,8 @@
+Q1,Mercurio,2.5
+Q2,Venus,5.0
+Q3,Tierra,10.0
+Q4,Marte,7.8
+Q5,Júpiter,15.2
+Q6,Saturno,12.6
+Q7,Urano,8.9
+Q8,Neptuno,9.7
